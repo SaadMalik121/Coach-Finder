@@ -1,0 +1,14 @@
+* {
+  margin: 0px 0px 15px 0px;
+  padding: 0px;
+  box-sizing: border-box;
+
+}
+
+body {
+  background-color: #FAF3F0;
+  /* background-color: rgba(128, 128, 128, 0.313); */
+  padding: 2% 10%;
+  /* font-size: 25px; */
+  font-family: Arial, Helvetica, sans-serif;
+}
